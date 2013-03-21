@@ -1,4 +1,4 @@
-<project default="jar" name="HelloWorld">
+<project default="main" name="HelloWorld">
 	<property name="src.dir"	value="src"/>
 	
 	<property name="build.dir"	value="build"/>
